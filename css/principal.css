@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+p{
+    border:solid 1px gray;
+    box-shadow: 0 10px 10px 0;
+}
